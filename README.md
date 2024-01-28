@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Bendary</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/juba-32/juba-32/assets/110267631/152d33aa-3d82-40b6-861b-4e4e5d5ef855)
+<img align="right" alt="coding" width="400" src="[![image](https://github.com/juba-32/juba-32/assets/110267631/152d33aa-3d82-40b6-861b-4e4e5d5ef855)](https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true)
 "
 - 👨‍💻 All of my projects are available at [https://react-portflio-8fcc6.firebaseapp.com/](https://react-portflio-8fcc6.firebaseapp.com/)
 
