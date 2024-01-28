@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Bendary</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/ixY9MZJzovXLJXty6](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3EXtClRS6CaGsvgZYF7cw3&ust=1706544130829000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCPi_wKDPgIQDFQAAAAAdAAAAABAD)"
+<img align="right" alt="coding" width="400" src="![image](https://github.com/juba-32/juba-32/assets/110267631/152d33aa-3d82-40b6-861b-4e4e5d5ef855)
+"
 - 👨‍💻 All of my projects are available at [https://react-portflio-8fcc6.firebaseapp.com/](https://react-portflio-8fcc6.firebaseapp.com/)
 
 - 📫 How to reach me *bendarya58@gmail.com*
