@@ -8,7 +8,7 @@
 
 - 🙋‍♂️ All about me is at **[My Portfolio](https://react-portflio-8fcc6.firebaseapp.com/#portfolio)**
 
-- 📃 You can download my Resume/CV [Ahmed Bendary.pdf](https://github.com/Moustafa-Bahaa/Moustafa-Bahaa/files/12223093/Moustafa.4.pdf)
+- 📃 You can download my Resume/CV [Ahmed Bendary.pdf]file:///C:/Users/benda/Desktop/A.Bendary.pdf
 
 - 📫 How to reach me **bendarya58@gmail.com**
 
