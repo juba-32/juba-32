@@ -30,7 +30,7 @@ I'm a Frontend Developer passionate about building modern, responsive, and high-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/2010XXXXXXXX">
+<a href="https://wa.me/201060394855">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
