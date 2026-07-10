@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ahmed Bendary
+<img align="right" width="380" border-radius="50" src="my-image.png"/>
 
 ### Frontend Developer | React.js | Next.js | TypeScript
 
-<img align="right" width="380" border-radius="50" src="my-image.png"/>
 
 I'm a Frontend Developer passionate about building modern, responsive, and high-performance web applications using React and Next.js.
 
