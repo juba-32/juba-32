@@ -78,7 +78,7 @@ I'm a Frontend Developer passionate about building modern, responsive, and high-
 ### 🛒 Nelly E-Commerce
 
 <a href="https://nelly-mu.vercel.app">
-<img src="[https://your-image-link.com/nelly.png](https://a-bendary.vercel.app/assets/nelly-DPIdoXMc.webp)" width="100%" alt="Nelly"/>
+<img src="https://a-bendary.vercel.app/assets/nelly-DPIdoXMc.webp" width="100%" alt="Nelly"/>
 </a>
 
 React • Redux Toolkit • Node.js • Express • MongoDB
