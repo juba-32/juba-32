@@ -6,9 +6,9 @@
 
    <h3 >  Frontend Developer. </h3>
 
-- 🙋‍♂️ All about me is at **[My Portfolio](https://my-portfolio-ruddy-sigma-41.vercel.app/)**
+- 🙋‍♂️ All about me is at https://a-bendary.vercel.app/
 
-- 📃 You can download my Resume/CV [Ahmed Bendary.pdf](file:///C:/Users/benda/Desktop/A.Bendary.pdf)
+- 📃 You can download my Resume/CV [Ahmed Bendary.pdf](file:///C:/Users/benda/Downloads/A.Bendary-Front-End%20Developer.pdf)
 
 - 📫 How to reach me **bendarya58@gmail.com**
 
