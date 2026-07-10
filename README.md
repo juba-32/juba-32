@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React.js | Next.js | TypeScript
 
-<img align="right" width="380" border="50" src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true"/>
+<img align="right" width="380" border="50" src="https://a-bendary.vercel.app/assets/bendary-B03_NQwI.avif"/>
 
 I'm a Frontend Developer passionate about building modern, responsive, and high-performance web applications using React and Next.js.
 
