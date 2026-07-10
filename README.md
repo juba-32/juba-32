@@ -1,64 +1,108 @@
-<h1 a>Hi 👋, I'm Ahmed Bendary</h1>
+# Hi 👋, I'm Ahmed Bendary
 
+### Frontend Developer | React.js | Next.js | TypeScript
 
-## 👨🏻‍💻 About Me:
-<img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" height="290px" align="right" />
+<img align="right" width="380" src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true"/>
 
-   <h3 >  Frontend Developer. </h3>
+I'm a Frontend Developer passionate about building modern, responsive, and high-performance web applications using React and Next.js.
 
-- 🙋‍♂️ All about me is at https://a-bendary.vercel.app/
+- 🔭 Currently working on React & Next.js projects
+- 🌱 Learning advanced frontend architecture
+- 💼 Available for Freelance
+- 🌍 Portfolio: https://a-bendary.vercel.app
+- 📧 Email: bendarya58@gmail.com
 
-- 📃 You can download my Resume/CV [Ahmed Bendary.pdf](file:///C:/Users/benda/Downloads/A.Bendary-Front-End%20Developer.pdf)
+---
 
-- 📫 How to reach me **bendarya58@gmail.com**
+## 🌐 Connect with me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-bendary-065632228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moustafa-bahaa-47051b235" height="30" width="40" /></a>
 
+<a href="https://a-bendary.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/ahmed-bendary-065632228/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
+<a href="mailto:bendarya58@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
-<br/>
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p>
-  
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>      
-
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-
-<img alt="Sass" src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=Sass&logoColor=pink" height="25px"/>
-
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-  
-<img alt="typescript" src="https://img.shields.io/badge/TypeScript-blue" height="25px"/>
-
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
-  
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/> 
-
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-
- <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-
-<img alt="yarn" src="https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=yarn&logoColor=blue" height="25px"/>
-
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
- 
-<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
-
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" height="25px"/>
+<a href="https://wa.me/2010XXXXXXXX">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 </p>
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+## ⭐ Featured Projects
+
+### 🛒 Nelly E-commerce
+Modern E-commerce application built with React, Redux Toolkit, Node.js, Express.js, and MongoDB.
+
+🔗 https://nelly-mu.vercel.app
+
+---
+
+### 💼 Portfolio Website
+
+Modern portfolio built with React & Framer Motion.
+
+🔗 https://a-bendary.vercel.app
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
