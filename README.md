@@ -81,7 +81,7 @@ I'm a Frontend Developer passionate about building modern, responsive, and high-
 <img src="https://a-bendary.vercel.app/assets/nelly-DPIdoXMc.webp" width="100%" alt="Nelly"/>
 </a>
 
-React • Redux Toolkit • Node.js • Express • MongoDB
+React • Redux Toolkit • Node.js • Express • MongoDB 
 
 <a href="https://nelly-mu.vercel.app">🔗 Live Demo</a> |
 <a href="https://github.com/juba-32/store">💻 Source Code</a>
@@ -90,16 +90,16 @@ React • Redux Toolkit • Node.js • Express • MongoDB
 
 <td width="50%">
 
-### 💼 Portfolio
+### 💼 Nelly Admin Dashboard
 
-<a href="https://a-bendary.vercel.app">
-<img src="https://your-image-link.com/portfolio.png" width="100%" alt="Portfolio"/>
+<a href="https://nelly-admin-dashboard.vercel.app/">
+<img src="https://a-bendary.vercel.app/assets/Nelly-dashboard-C14O68-o.webp" width="100%" alt="dashboard"/>
 </a>
 
-Next.js • TypeScript • Framer Motion
+React • Redux Toolkit • Node.js • Express • MongoDB
 
 <a href="https://a-bendary.vercel.app">🔗 Live Demo</a>
-
+<a href="https://github.com/juba-32/nelly-admin-dashboard">💻 Source Code</a>
 </td>
 
 </tr>
