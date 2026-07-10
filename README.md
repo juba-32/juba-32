@@ -68,41 +68,39 @@ I'm a Frontend Developer passionate about building modern, responsive, and high-
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-### 🛒 Nelly E-commerce
-Modern E-commerce application built with React, Redux Toolkit, Node.js, Express.js, and MongoDB.
+<table>
+<tr>
 
-🔗 https://nelly-mu.vercel.app
+<td width="50%">
 
----
+### 🛒 Nelly E-Commerce
 
-### 💼 Portfolio Website
+<a href="https://nelly-mu.vercel.app">
+<img src="[https://your-image-link.com/nelly.png](https://a-bendary.vercel.app/assets/nelly-DPIdoXMc.webp)" width="100%" alt="Nelly"/>
+</a>
 
-Modern portfolio built with React & Framer Motion.
+React • Redux Toolkit • Node.js • Express • MongoDB
 
-🔗 https://a-bendary.vercel.app
+<a href="https://nelly-mu.vercel.app">🔗 Live Demo</a> |
+<a href="https://github.com/juba-32/store">💻 Source Code</a>
 
----
+</td>
 
-## 📊 GitHub Stats
+<td width="50%">
 
-<p align="center">
+### 💼 Portfolio
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<a href="https://a-bendary.vercel.app">
+<img src="https://your-image-link.com/portfolio.png" width="100%" alt="Portfolio"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+Next.js • TypeScript • Framer Motion
 
-</p>
+<a href="https://a-bendary.vercel.app">🔗 Live Demo</a>
 
-<p align="center">
+</td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+</tr>
+</table>
